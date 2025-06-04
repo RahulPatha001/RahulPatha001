@@ -11,32 +11,38 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Who Am I?
 
-- 💼 Full Stack Developer with a blend of frontend finesse and backend brilliance  
-- 🌍 Based in India | Working remotely with global teams  
-- ☁️ Building cloud-native apps  
-- 💡 Always learning, always building
+- 🔭 A passionate full stack developer building end-to-end solutions  
+- 💬 I speak JavaScript, Python, Java & DevOps fluently  
+- 🌐 Frontend wizard with React & Angular  
+- ⚙️ Backend ninja with Node, Express, Spring Boot  
+- ☁️ Cloud-native developer with hands-on AWS experience  
+- 🧩 Love clean code, system design, and scalable architectures
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
-### 👨‍🎨 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
 
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+
+---
 
 
 ## 🧠 Currently Learning
