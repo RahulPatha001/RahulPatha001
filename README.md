@@ -33,6 +33,7 @@
 - Node.js
 - Express
 - Spring Boot
+- Flask
 
 **DevOps & Cloud**
 
